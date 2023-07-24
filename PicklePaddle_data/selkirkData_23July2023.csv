@@ -1,33 +1,145 @@
 ,Product Name,Price,Prod_Date,Brand
-0,JOOLA Anna Bright Scorpeus CFS 14 Pickleball Paddle,$249.95,2023-07-24,JOOLA
-1,JOOLA Collin Johns Scorpeus CFS 16 Pickleball Paddle,$249.95,2023-07-24,JOOLA
-2,JOOLA Ben Johns Perseus CFS 16 Pickleball Paddle,$249.95,2023-07-24,JOOLA
-3,JOOLA Ben Johns Perseus CFS 14 Pickleball Paddle,$249.95,2023-07-24,JOOLA
-4,JOOLA Simone Jardim Hyperion CFS 16 Swift Pickleball Paddle,$219.95,2023-07-24,JOOLA
-5,JOOLA Simone Jardim Hyperion CFS 16 Pickleball Paddle,$219.95,2023-07-24,JOOLA
-6,JOOLA Simone Jardim Hyperion CFS 14 Swift Pickleball Paddle,$219.95,2023-07-24,JOOLA
-7,JOOLA Ben Johns Hyperion CFS 16 Swift Pickleball Paddle,$219.95,2023-07-24,JOOLA
-8,JOOLA Ben Johns Hyperion CFS 14 Swift Pickleball Paddle,$219.95,2023-07-24,JOOLA
-9,JOOLA Ben Johns Hyperion CFS 14 Pickleball Paddle,$219.95,2023-07-24,JOOLA
-10,JOOLA Ben Johns Hyperion CFS 16 Pickleball Paddle,$219.95,2023-07-24,JOOLA
-11,JOOLA Ben Johns Hyperion CGS 16 Pickleball Paddle,$199.95,2023-07-24,JOOLA
-12,JOOLA Ben Johns Hyperion CGS 14 Pickleball Paddle,$199.95,2023-07-24,JOOLA
-13,JOOLA Solaire CFS 14 Swift Pickleball Paddle,$189.95,2023-07-24,JOOLA
-14,JOOLA Solaire CFS 14 Pickleball Paddle,$189.95,2023-07-24,JOOLA
-15,JOOLA Radius CGS 14 Pickleball Paddle,$179.95,2023-07-24,JOOLA
-16,JOOLA Radius CGS 16 Pickleball Paddle,$179.95,2023-07-24,JOOLA
-17,JOOLA Vision CGS 16 Pickleball Paddle,$169.95,2023-07-24,JOOLA
-18,JOOLA Vision CGS 14 Pickleball Paddle,$169.95,2023-07-24,JOOLA
-19,JOOLA Ben Johns Hyperion CAS 16 Pickleball Paddle,$159.95,2023-07-24,JOOLA
-20,JOOLA Ben Johns Hyperion CAS 13.5 Pickleball Paddle,$159.95,2023-07-24,JOOLA
-21,JOOLA Method CGS 12 Pickleball Paddle,$159.95,2023-07-24,JOOLA
-22,JOOLA Solaire FAS 13 Pickleball Paddle,$149.95,2023-07-24,JOOLA
-23,JOOLA Stand Up To Cancer Pickleball Paddle,$129.95,2023-07-24,JOOLA
-24,JOOLA Seneca CDS 16 Pickleball Paddle,$129.95,2023-07-24,JOOLA
-25,JOOLA Essentials Pickleball Paddles & Balls Set,$129.95,2023-07-24,JOOLA
-26,JOOLA Seneca FDS 14 Pickleball Paddle,$99.95,2023-07-24,JOOLA
-27,JOOLA Ben Johns Blue Lightning Pickleball Paddle Set,$79.95,2023-07-24,JOOLA
-28,JOOLA Journey Pickleball Paddle,$69.95,2023-07-24,JOOLA
-29,JOOLA Essentials Pickleball Paddle,$59.95,2023-07-24,JOOLA
-30,JOOLA Megalodon Junior Pickleball Paddle,$49.95,2023-07-24,JOOLA
-31,JOOLA Ben Johns Junior Pickleball Paddle,$49.95,2023-07-24,JOOLA
+0,"Vanguard 2.0 S2
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+1,"Vanguard 2.0 S2
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+2,"Vanguard 2.0 Invikta
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+3,"Vanguard 2.0 Invikta
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+4,"Vanguard 2.0 Epic
+
+ - Arizona Sun",$200.00,2023-07-24,Selkirk
+5,"Vanguard 2.0 Epic
+
+ - Arizona Sun",$200.00,2023-07-24,Selkirk
+6,"Vanguard 2.0 Omni
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+7,"Vanguard 2.0 Omni
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+8,"Vanguard 2.0 Maxima
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+9,"Vanguard 2.0 Maxima
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+10,"Vanguard Power Air S2
+
+ - Prestige",$250.00,2023-07-24,Selkirk
+11,"Vanguard Power Air S2
+
+ - Prestige",$250.00,2023-07-24,Selkirk
+12,"Vanguard Power Air Invikta
+
+ - Prestige",$250.00,2023-07-24,Selkirk
+13,"Vanguard Power Air Invikta
+
+ - Prestige",$250.00,2023-07-24,Selkirk
+14,"Vanguard Power Air Epic
+
+ - Prestige",$250.00,2023-07-24,Selkirk
+15,"Vanguard Power Air Epic
+
+ - Prestige",$250.00,2023-07-24,Selkirk
+16,"Vanguard 2.0 S2
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+17,"Vanguard 2.0 S2
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+18,"Vanguard 2.0 Omni
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+19,"Vanguard 2.0 Omni
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+20,"Vanguard 2.0 Maxima
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+21,"Vanguard 2.0 Maxima
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+22,"Vanguard 2.0 Mach6
+
+ - Dragonfly Blue",$200.00,2023-07-24,Selkirk
+23,"Vanguard 2.0 Mach6
+
+ - Dragonfly Blue",$200.00,2023-07-24,Selkirk
+24,"Vanguard 2.0 Invikta
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+25,"Vanguard 2.0 Invikta
+
+ - Crimson Black",$200.00,2023-07-24,Selkirk
+26,"Vanguard 2.0 Epic
+
+ - Arizona Sun",$200.00,2023-07-24,Selkirk
+27,"Vanguard 2.0 Epic
+
+ - Arizona Sun",$200.00,2023-07-24,Selkirk
+28,"AMPED S2
+
+ - Selkirk Red",$150.00,2023-07-24,Selkirk
+29,"AMPED S2
+
+ - Selkirk Red",$150.00,2023-07-24,Selkirk
+30,"AMPED Omni
+
+ - Selkirk Red",$150.00,2023-07-24,Selkirk
+31,"AMPED Omni
+
+ - Selkirk Red",$150.00,2023-07-24,Selkirk
+32,"AMPED Invikta
+
+ - Selkirk Red",$150.00,2023-07-24,Selkirk
+33,"AMPED Invikta
+
+ - Selkirk Red",$150.00,2023-07-24,Selkirk
+34,"AMPED Epic
+
+ - Selkirk Red",$150.00,2023-07-24,Selkirk
+35,"AMPED Epic
+
+ - Selkirk Red",$150.00,2023-07-24,Selkirk
+36,AMPED Signature Paddle,$150.00,2023-07-24,Selkirk
+37,AMPED Signature Paddle,$150.00,2023-07-24,Selkirk
+38,"SLK Omega XL
+
+ - Blue",$140.00,2023-07-24,Selkirk
+39,"SLK Omega XL
+
+ - Blue",$140.00,2023-07-24,Selkirk
+40,"SLK Omega Max
+
+ - Yellow",$140.00,2023-07-24,Selkirk
+41,"SLK Omega Max
+
+ - Yellow",$140.00,2023-07-24,Selkirk
+42,SLK Halo,$140.00,2023-07-24,Selkirk
+43,SLK Halo,$140.00,2023-07-24,Selkirk
+44,"SLK Evo Power 2.0
+
+ - Green",$100.00,2023-07-24,Selkirk
+45,"SLK Evo Power 2.0
+
+ - Green",$100.00,2023-07-24,Selkirk
+46,"SLK Evo Hybrid 2.0
+
+ - Blue",$100.00,2023-07-24,Selkirk
+47,"SLK Evo Hybrid 2.0
+
+ - Blue",$100.00,2023-07-24,Selkirk
+48,"SLK Evo Control 2.0
+
+ - Blue",$100.00,2023-07-24,Selkirk
+49,"SLK Evo Control 2.0
+
+ - Blue",$100.00,2023-07-24,Selkirk
+50,Pro Line Tour Bag,$200.00,2023-07-24,Selkirk
+51,Pro Line Team Bag,$150.00,2023-07-24,Selkirk
