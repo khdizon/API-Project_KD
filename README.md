@@ -4,7 +4,7 @@
 Version  | Date | Author | Notes |
 :-------:|:----:|:-------|:-----:|
 0.1 |11 July 2023| Ken Dizon | Initial version
-0.2 |2 Aug 2023| Ken Dizon | Uploaded 3 datasets and began EDA
+0.2 |2 Aug 2023| Ken Dizon | Uploaded 3 initial datasets and began EDA
 
 ## Business Understanding
 Write a program that scrapes product data:
